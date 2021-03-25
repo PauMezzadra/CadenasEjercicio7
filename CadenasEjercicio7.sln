@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadenasEjercicio7", "CadenasEjercicio7\CadenasEjercicio7.csproj", "{ACF6CD2B-D374-4EB8-9BB3-B7C43D233184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF6CD2B-D374-4EB8-9BB3-B7C43D233184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF6CD2B-D374-4EB8-9BB3-B7C43D233184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF6CD2B-D374-4EB8-9BB3-B7C43D233184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF6CD2B-D374-4EB8-9BB3-B7C43D233184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44CE437A-2DB7-437B-AEC7-D0F40D7220C1}
+	EndGlobalSection
+EndGlobal
